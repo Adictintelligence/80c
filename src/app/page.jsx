@@ -2,7 +2,7 @@
 import React from "react";
 import { useHandleStreamResponse } from "../utilities/runtime-helpers";
 
-"use client";
+//"use client";
 
 function MainComponent() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
